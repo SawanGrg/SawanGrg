@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring
+      <br>Spring Boot
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
@@ -70,6 +70,10 @@ Here are some ideas to get you started:
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
+    </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
