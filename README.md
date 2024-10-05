@@ -21,8 +21,6 @@ Here are some ideas to get you started:
         alt="Typing SVG" />
 </p>
 
-
-<h4>Language and Tools I use</h4>
 <h4>Languages and Tools I Use</h4>
 
 <table>
