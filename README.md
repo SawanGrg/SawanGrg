@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2 align="left">Hi! My name is Sawan!</h2>
 
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=3E68D7&width=435&lines=Hello+There;Welcome+to+Sawan+Gurung's+profile&center=true"
         alt="Typing SVG" />
 </p>
 
-<img align="right" height="250" src="assets/cover.svg" />
+
 <h4>Language and Tools I use</h4>
 <img
     src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,react,nodejs,express,nestjs,prisma,postgres,mongodb,mysql,redis,postman,docker,git,vercel,tailwind,css&perline=10" />
@@ -29,6 +30,8 @@ Here are some ideas to get you started:
 
 
 <img src="https://skillicons.dev/icons?i=aws,kubernetes&perline=10" />
+
+<h4>Other Handlers</h4>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
