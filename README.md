@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SawanGrg/SawanGrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=3E68D7&width=435&lines=Hello+There;Welcome+to+Sawan+Gurung's+profile&center=true"
+        alt="Typing SVG" />
+</p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=3E68D7&width=435&lines=Hello+There;Welcome+to+Bijan+Regmi's+profile&center=true"
         alt="Typing SVG" />
