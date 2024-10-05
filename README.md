@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tekture&pause=1000&color=3E68D7&width=435&lines=Hello+There;Welcome+to+Bijan+Regmi's+profile&center=true"
         alt="Typing SVG" />
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
 <img align="right" height="250" src="assets/cover.svg" />
 <h4>Language and Tools I use</h4>
 <img
-    src="https://skillicons.dev/icons?i=java,springboot,hibernate,ts,react,nodejs,express,nestjs,prisma,postgres,mongodb,mysql,redis,postman,docker,git,bash,vercel,tailwind,css&perline=10" />
+    src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,react,nodejs,express,nestjs,prisma,postgres,mongodb,mysql,redis,postman,docker,git,vercel,tailwind,css&perline=10" />
 
 <h4>Exploring</h4>
 <img src="https://skillicons.dev/icons?i=aws,kubernetes&perline=10" />
