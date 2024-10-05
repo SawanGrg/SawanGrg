@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img align="right" height="250" src="assets/cover.svg" />
 <h4>Language and Tools I use</h4>
 <img
-    src="https://skillicons.dev/icons?i=ts,nodejs,express,graphql,nestjs,prisma,planetscale,postgres,mongodb,mysql,redis,rabbitmq,postman,docker,nginx,git,github,githubactions,bash,linux,vercel,nextjs,react,redux,tailwind,css,neovim,md,cpp,python,lua&perline=10" />
+    src="https://skillicons.dev/icons?i=java,springboot,hibernate,ts,react,nodejs,express,nestjs,prisma,postgres,mongodb,mysql,redis,postman,docker,git,bash,vercel,tailwind,css&perline=10" />
 
 <h4>Exploring</h4>
-<img src="https://skillicons.dev/icons?i=go,rust,aws,kubernetes&perline=10" />
+<img src="https://skillicons.dev/icons?i=aws,kubernetes&perline=10" />
