@@ -71,6 +71,10 @@ Here are some ideas to get you started:
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Git" />
+      <br>GitHub
+    </td>
   </tr>
 </table>
 
